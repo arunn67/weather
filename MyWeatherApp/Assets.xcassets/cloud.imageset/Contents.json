@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "4102326_cloud_sun_sunny_weather_icon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "4102326_cloud_sun_sunny_weather_icon 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "4102326_cloud_sun_sunny_weather_icon 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
